@@ -1,0 +1,290 @@
+{
+  "headers": {},
+  "original":{
+    "0": {
+      "position": "1",
+     "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+      "clubA": "Bayern Munich",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+      
+      
+    },
+  
+  
+    "1": {
+   "position": "2",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+      "clubA":  "SC Freiburg",
+     "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "2": {
+      "position": "18",
+       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
+      "clubA": "Schalke 04",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "3": {
+     "position": "3",
+       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+      "clubA": "RB Leipzig",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "4": {
+      "position": "4",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+      "clubA": "Eintracht Frankfurt",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "5": {
+     "position": "5",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+      "clubA": "1. FC Union Berlin",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+    "6": {
+      "position": "6",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+      "clubA":  "Borussia Dortmund",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "7": {
+      "position": "7",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+      "clubA": "VfL Wolfsburg",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "8": {
+      "position": "8",
+       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+       "clubA": "Borussia Monchengladbach",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "9": {
+     "position": "9",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+      "clubA": "Werder Bremen",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "10": {
+     "position": "10",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+      "clubA": "Mainz",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+    "11": {
+     "position": "11",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+      "clubA": "TSG Hoffenheim",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+    "12": {
+      "position": "12",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+      "clubA": "Bayer Leverkusen",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+    "13": {
+      "position": "13",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+      "clubA": "FC Cologne",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+    "14": {
+      "position": "14",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+      "clubA": "FC Augsburg",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+
+  
+    "15": {
+      "position": "15",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
+      "clubA":  "Hertha Berlin",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "16": {
+      "position": "16",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+      "clubA": "VfB Stuttgart",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "17": {
+      "position": "17",
+       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/121.png",
+      "clubA": "VfL Bochum",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+    "status": true
+  },
+  "exception": null
+}

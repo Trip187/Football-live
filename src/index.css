@@ -1,0 +1,27 @@
+:root{
+  --bs-body-bg : white;
+  --bs-body-color: #212529;
+  --bs-header-color: #212529;
+  --link_color:blue;
+}
+[data-theme="dark"]{
+  --bs-body-bg : #121212;
+  --bs-body-color: #e0e0e0;
+  --bs-header-color: #e0e0e0;
+  --link_color: blue;
+}
+*{
+  transition:all 0.3s ease-in-out
+}
+body {
+  --bs-body-font-family: var(--bs-font-monospace);
+  --bs-body-line-height: 1.4;
+  
+
+}
+
+.table {
+  --bs-table-color: var(--bs-gray-600);
+  --bs-table-bg: var(--bs-gray-100);
+  --bs-table-border-color: transparent;
+}

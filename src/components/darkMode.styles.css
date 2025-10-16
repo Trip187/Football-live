@@ -1,0 +1,36 @@
+
+.dark-Theme{
+  position: relative;
+  background-color: white;
+  animation-name: slider;
+  animation-duration: 1s;
+  animation-timing-function: ease-in-out;
+  cursor: pointer;
+}
+
+@keyframes slider {
+  0%{background-color: yellow; right: 400px;}
+  100% {background-color: black;  right:420px; }
+  
+}
+.light-Theme{
+   position: relative;
+
+  background-color: yellow;
+  animation-name: sliderReverse;
+  animation-duration: 1s;
+  animation-timing-function: ease-in-out;
+  cursor: pointer;
+}
+@keyframes sliderReverse {
+  0%{background-color: black; right: 420px;}
+  100% {background-color: yellow;  right:400px; }
+  
+}
+.form-check{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}

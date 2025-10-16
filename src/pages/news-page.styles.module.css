@@ -1,0 +1,35 @@
+h2.header{
+  color: "red";
+  font-size: "24px";
+  margin-bottom: "10px";
+  text-align: "center";
+}
+p.title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-variant: small-caps;
+  font-size: 1.5rem;
+  margin: 0.5rem 0;
+  font-weight: bold;
+}
+p.description {
+  font-family:poiret One;
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+}
+p.source-url {
+  font-size: 0.9rem;
+  margin: 0.5rem 0;
+}
+p.source-url:visited{
+  background-color: crimson;
+
+}
+p.source-url:hover{
+  background-color: yellow;
+}
+p.source-url:active{
+  background-color: blue;
+}
+p.numbers{
+  font-variant-numeric: slashed-zero;
+}

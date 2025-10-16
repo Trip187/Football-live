@@ -1,0 +1,156 @@
+.homepage-ul {
+  list-style: none;
+  border-left: 3px solid var(--accent-color);
+  padding: 0;
+  margin: 0;
+}
+
+/* 🔹 League Items */
+.homepage-li {
+  position: relative;
+  margin: 1rem 0;
+  font-variant-caps: small-caps;
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: var(--text-color);
+  cursor: pointer;
+  overflow: hidden;
+  transition: color 0.3s ease;
+}
+
+/* Background highlight (slide in) */
+.homepage-li::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: var(--accent-color-transparent);
+  transition: all 0.4s ease;
+  z-index: 0;
+}
+
+.homepage-li:hover::before {
+  left: 0;
+}
+
+/* Underline animation */
+.homepage-li::after {
+  content: "";
+  position: absolute;
+  bottom: -3px;
+  left: 50%;
+  height: 2px;
+  width: 0;
+  background-color: var(--accent-color);
+  transition: width 0.3s ease;
+  z-index: 1;
+}
+
+.homepage-li:hover::after {
+  width: 50%;
+  left: 25%;
+}
+
+.homepage-li:hover {
+  color: var(--hover-text);
+}
+
+/* Keep text above the background */
+.homepage-li span {
+  position: relative;
+  z-index: 2;
+}
+
+/* 🔹 Sub-links (Fixtures / League Table) */
+.sub-link {
+  position: relative;
+  font-size: 1.1rem;
+  margin: 0.5rem 0;
+  color: var(--subtext-color);
+  cursor: pointer;
+  overflow: hidden;
+  transition: color 0.3s ease;
+}
+
+/* Background glow */
+.sub-link::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: var(--accent-color-transparent);
+  transition: all 0.4s ease;
+  z-index: 0;
+}
+
+.sub-link:hover::before {
+  left: 0;
+}
+
+/* Underline animation */
+.sub-link::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 50%;
+  height: 2px;
+  width: 0;
+  background-color: var(--accent-color);
+  transition: width 0.3s ease;
+  z-index: 1;
+}
+
+.sub-link:hover::after {
+  width: 50%;
+  left: 25%;
+}
+
+.sub-link:hover {
+  color: var(--hover-text);
+}
+
+.sub-link span {
+  position: relative;
+  z-index: 2;
+}
+
+/* Header text */
+.header-h1 {
+  text-align: center;
+  font-size: 3rem;
+  font-variant-caps: small-caps;
+  margin-bottom: 2rem;
+  text-decoration: underline;
+  color: red;
+}
+
+.para-header {
+  font-variant: small-caps;
+  color: var(--text-color);
+  font-size: 1.2rem;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+/* 🔹 Theme Colors */
+:root {
+  --background-color: #ffffff;
+  --text-color: #1b1bbc;
+  --subtext-color: #2a2a2a;
+  --hover-text: #000000;
+  --accent-color: #f5c518;
+  --accent-color-transparent: rgba(245, 197, 24, 0.25);
+}
+
+[data-theme="dark"] {
+  --background-color: #121212;
+  --text-color: #f5f5f5;
+  --subtext-color: #cccccc;
+  --hover-text: #ffffff;
+  --accent-color: #1e90ff;
+  --accent-color-transparent: rgba(30, 144, 255, 0.2);
+}
