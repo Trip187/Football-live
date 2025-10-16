@@ -1,0 +1,53 @@
+[
+  {
+    "Football": {
+      "Bundesliga": [
+        {
+          "match": "Bayern Munich vs SC Freiburg",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "Schalke 04 vs RB Leipzig",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "Eintracht Frankfurt vs FC Union Berlin ",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "Borussia Dortmund vs VfL Wolfsburg",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "Borussia Monchengladbach vs Werder Bremen",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "Mainz vs TSG Hoffenheim",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "Bayer Leverkusen vs FC Cologne",
+          "score": "Scheduled",
+          "time": "10.11"
+        },
+        {
+          "match": "FC Augsburg vs Hertha Berlin",
+          "score": "Scheduled",
+          "time": "10.11"
+        },
+        {
+          "match": "VfB Stuttgart vs VfL Bochum",
+          "score": "Scheduled",
+          "time": "10.11"
+        }
+      ]
+    }
+  }
+]

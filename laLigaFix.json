@@ -1,0 +1,58 @@
+[
+  {
+    "Football": {
+      "La Liga": [
+        {
+          "match": "Real Madrid vs Barcelona",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "Athletic Club vs Atletico Madrid",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "Real Sociedad vs Valencia",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "Girona vs Las Palmas",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "Real Betis vs Getafe",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "Alaves vs Rayo Vallecano",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "Osasuna vs Villareal",
+          "score": "Scheduled",
+          "time": "10.11"
+        },
+        {
+          "match": "Mallorca vs Celta Vigo",
+          "score": "Scheduled",
+          "time": "10.11"
+        },
+        {
+          "match": "Sevilla vs Cadiz",
+          "score": "Scheduled",
+          "time": "10.11"
+        },
+        {
+          "match": "Granada vs Almeria",
+          "score": "Scheduled",
+          "time": "10.11"
+        }
+      ]
+    }
+  }
+]

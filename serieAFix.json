@@ -1,0 +1,58 @@
+[
+  {
+    "Football": {
+      "Serie A": [
+        {
+          "match": "Napoli vs Juventus",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "AC Milan vs Internazionale",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "Lazio vs Atalanta",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "AS Roma vs Udinese",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "Fiorentina vs Torino",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "Lecce vs Bologna",
+          "score": "Ongoing",
+          "time": "09.11"
+        },
+        {
+          "match": "Empoli vs Salernitana",
+          "score": "Scheduled",
+          "time": "10.11"
+        },
+        {
+          "match": "Monza vs Sassuolo",
+          "score": "Scheduled",
+          "time": "10.11"
+        },
+        {
+          "match": "Spezia vs Hellas Verona",
+          "score": "Scheduled",
+          "time": "10.11"
+        },
+        {
+          "match": "Sampdoria vs Cremonese",
+          "score": "Scheduled",
+          "time": "10.11"
+        }
+      ]
+    }
+  }
+]

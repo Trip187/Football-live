@@ -1,0 +1,290 @@
+{
+  "headers": {},
+  "original":{
+    "0": {
+      "position": "1",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "clubA": "Paris Saint-Germain",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+      
+      
+    },
+  
+  
+    "1": {
+   "position": "2",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+      "clubA":  "Nice",
+     "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "2": {
+     "position": "3",
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+      "clubA": "Brest",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "3": {
+     "position": "3",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+      "clubA": "Lyon",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "4": {
+      "position": "4",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+      "clubA": "AS Monaco",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "5": {
+     "position": "5",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+      "clubA": "Strasbourg",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+    "6": {
+      "position": "6",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
+      "clubA":  "Le Havre AC",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "7": {
+      "position": "7",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+      "clubA": "Marseille",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "8": {
+      "position": "8",
+       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+       "clubA": "Stade Rennais",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "9": {
+     "position": "9",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
+      "clubA": "Nantes",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "10": {
+     "position": "10",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+      "clubA": "Lille",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+    "11": {
+     "position": "11",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
+      "clubA": "Metz",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+    "12": {
+      "position": "12",
+       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3243.png",
+      "clubA": "Stade de Reims",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+    "13": {
+      "position": "13",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/274.png",
+      "clubA": "Montpellier",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+    "14": {
+      "position": "14",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+      "clubA": "Monza",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+
+  
+    "15": {
+      "position": "15",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+      "clubA": "Lorient",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "16": {
+      "position": "16",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
+      "clubA": "Toulouse",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+  
+  
+    "17": {
+      "position": "17",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+      "clubA": "Lens",
+      "Played": 17,
+      "won": 14,
+      "lost": 1,
+      "drawn": 2,
+      "gf": 39,
+      "ga": 13,
+      "gd": 26,
+      "points": 44,
+      "next": []
+    },
+    "status": true
+  },
+  "exception": null
+}
