@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/trip187.github.io/Football-live/static/css/main.e2c51f50.css",
-    "main.js": "/trip187.github.io/Football-live/static/js/main.74138f1b.js",
-    "static/js/453.14411b3d.chunk.js": "/trip187.github.io/Football-live/static/js/453.14411b3d.chunk.js",
-    "static/media/prem-logo.png": "/trip187.github.io/Football-live/static/media/prem-logo.41d4f912689a9ff5f99e.png",
-    "static/media/login_user.png": "/trip187.github.io/Football-live/static/media/login_user.22010547a71202e077a8.png",
-    "static/media/bundesliga-logo.png": "/trip187.github.io/Football-live/static/media/bundesliga-logo.85b787fe67cd4491c132.png",
-    "static/media/LaLiga_logo.png": "/trip187.github.io/Football-live/static/media/LaLiga_logo.b6bed0007572c0d240c6.png",
-    "static/media/Ligue1_logo.png": "/trip187.github.io/Football-live/static/media/Ligue1_logo.16a286f4be794061033a.png",
-    "index.html": "/trip187.github.io/Football-live/index.html",
-    "main.e2c51f50.css.map": "/trip187.github.io/Football-live/static/css/main.e2c51f50.css.map",
-    "main.74138f1b.js.map": "/trip187.github.io/Football-live/static/js/main.74138f1b.js.map",
-    "453.14411b3d.chunk.js.map": "/trip187.github.io/Football-live/static/js/453.14411b3d.chunk.js.map"
+    "main.css": "/Football-live/static/css/main.e2c51f50.css",
+    "main.js": "/Football-live/static/js/main.cec22d13.js",
+    "static/js/453.14411b3d.chunk.js": "/Football-live/static/js/453.14411b3d.chunk.js",
+    "static/media/prem-logo.png": "/Football-live/static/media/prem-logo.41d4f912689a9ff5f99e.png",
+    "static/media/login_user.png": "/Football-live/static/media/login_user.22010547a71202e077a8.png",
+    "static/media/bundesliga-logo.png": "/Football-live/static/media/bundesliga-logo.85b787fe67cd4491c132.png",
+    "static/media/LaLiga_logo.png": "/Football-live/static/media/LaLiga_logo.b6bed0007572c0d240c6.png",
+    "static/media/Ligue1_logo.png": "/Football-live/static/media/Ligue1_logo.16a286f4be794061033a.png",
+    "index.html": "/Football-live/index.html",
+    "main.e2c51f50.css.map": "/Football-live/static/css/main.e2c51f50.css.map",
+    "main.cec22d13.js.map": "/Football-live/static/js/main.cec22d13.js.map",
+    "453.14411b3d.chunk.js.map": "/Football-live/static/js/453.14411b3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2c51f50.css",
-    "static/js/main.74138f1b.js"
+    "static/js/main.cec22d13.js"
   ]
 }
