@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Football-live/static/css/main.e2c51f50.css",
-    "main.js": "/Football-live/static/js/main.cec22d13.js",
+    "main.js": "/Football-live/static/js/main.340132ce.js",
     "static/js/453.14411b3d.chunk.js": "/Football-live/static/js/453.14411b3d.chunk.js",
     "static/media/prem-logo.png": "/Football-live/static/media/prem-logo.41d4f912689a9ff5f99e.png",
     "static/media/login_user.png": "/Football-live/static/media/login_user.22010547a71202e077a8.png",
@@ -10,11 +10,11 @@
     "static/media/Ligue1_logo.png": "/Football-live/static/media/Ligue1_logo.16a286f4be794061033a.png",
     "index.html": "/Football-live/index.html",
     "main.e2c51f50.css.map": "/Football-live/static/css/main.e2c51f50.css.map",
-    "main.cec22d13.js.map": "/Football-live/static/js/main.cec22d13.js.map",
+    "main.340132ce.js.map": "/Football-live/static/js/main.340132ce.js.map",
     "453.14411b3d.chunk.js.map": "/Football-live/static/js/453.14411b3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2c51f50.css",
-    "static/js/main.cec22d13.js"
+    "static/js/main.340132ce.js"
   ]
 }
