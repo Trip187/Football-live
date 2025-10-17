@@ -99,10 +99,10 @@
       "points": "4",
       "next": []
     },
-    "7": {// need to change
+    "7": {
       "position": "8",
-      "logo": "https://resources.premierleague.com/premierleague/badges/25/t13.png",
-      "clubA": "Leicester City",
+      "logo": "https://brandlogos.net/wp-content/uploads/2025/07/leeds-united-logo.png",
+      "clubA": "Leeds United",
       "played": "7",
       "won": "14",
       "drawn": "10",
@@ -197,10 +197,10 @@
       "points": "9",
       "next": []
     },
-    "14": {// nneed to change
+    "14": {
       "position": "15",
-      "logo": "https://resources.premierleague.com/premierleague/badges/25/t20.png",
-      "clubA": "Southampton",
+      "logo": "https://brandlogos.net/wp-content/uploads/2025/07/burnley-logo.png",
+      "clubA": "Burnley",
       "played": "7",
       "won": "9",
       "drawn": "13",
@@ -255,8 +255,8 @@
     },
     "18": {
       "position": "19",
-      "logo": "https://resources.premierleague.com/premierleague/badges/25/t57.png",
-      "clubA": "Watford",
+      "logo": "https://brandlogos.net/wp-content/uploads/2025/07/sunderland-logo.png",
+      "clubA": "Sunderland",
       "played": "7",
       "won": "6",
       "drawn": "5",
@@ -269,8 +269,8 @@
     },
     "19": {
       "position": "20",
-      "logo": "https://resources.premierleague.com/premierleague/badges/25/t45.png",//need to change
-      "clubA": "Norwich City",
+      "logo": "https://seeklogo.com/vector-logo/178006/sunderland-fc.png",
+      "clubA": "Sunderland",
       "played": "7",
       "won": "5",
       "drawn": "7",
